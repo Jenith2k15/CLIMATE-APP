@@ -1,0 +1,23 @@
+﻿@model Register
+
+@{
+    ViewData["Title"] = "Register";
+}
+
+<div class="container mt-5">
+    <form asp-action="Register" autocomplete="off">
+        <h2 class="text-center text-primary">Sign Up</h2>
+        <div class="form-group">
+            <label asp-for="FullName">Fullname</label>
+            <input asp-for="FullName" class="form-control" placeholder="Enter fullname">
+        </div>
+        <div class="form-group">
+            <label asp-for="Bio">Bio</label>
+            <input asp-for="Bio" class="form-control" placeholder="Password">
+        </div>
+        <div class="form-group text-center">
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </div>
+    </form>
+</div>
+

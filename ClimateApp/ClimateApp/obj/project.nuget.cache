@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "1JqvQVyI9O7DKdjc2HwrytBBVPSbbA4rBUTi46c7IfJzvaoI1Ef3xknctGRnYvYb0nEdDT1zfM0NQOwwy5PU7Q==",
+  "dgSpecHash": "57o3cwqZVB5XYbbQZMf8V/lKuBYm13QiVND1MwDvCTNtlGsHKrj73wHP+mlk773t3vok3X7h5MmDm2OoGrwuDg==",
   "success": true,
   "projectFilePath": "C:\\Users\\wb582760\\source\\repos\\CLIMATE-APP\\ClimateApp\\ClimateApp\\ClimateApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\wb582760\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
